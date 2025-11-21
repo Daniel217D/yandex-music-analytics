@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Daniel217D/yandex-music-analytics
 cd YM_anal
 ```
 
